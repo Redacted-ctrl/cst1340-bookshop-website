@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE bookstore SYSTEM "books.dtd">
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<bookstore>
+  <book>
+    <title>1984</title>
+    <author>George Orwell</author>
+    <price>10.99</price>
+    <stock>15</stock>
+  </book>
+  <book>
+    <title>The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <price>14.99</price>
+    <stock>8</stock>
+  </book>
+  <book>
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <price>9.99</price>
+    <stock>12</stock>
+  </book>
+  <book>
+    <title>Atomic Habits</title>
+    <author>James Clear</author>
+    <price>10.00</price>
+    <stock>22</stock>
+  </book>
+  <book>
+    <title>Meditations</title>
+    <author>Marcus Aurelius</author>
+    <price>8.99</price>
+    <stock>7</stock>
+  </book>
+</bookstore>
